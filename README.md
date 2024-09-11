@@ -13,10 +13,14 @@
 
 ## Sobre mi
 
-Soy una persona organizada, metódica y atenta a los detalles, con excelentes habilidades de comunicación, resolución de problemas y trabajo en equipo.<br>
-Me recibí como Licenciada en Ciencias de la Computación en el año 2011 y dediqué los años siguientes a la administración de sistemas, enfrentando diversos retos técnicos y optimizando mis habilidades blandas.<br>
-Llegué al ámbito de la calidad por situaciones inesperadas, y me enamoré de la actividad. Ejercí en relación de dependencia por un tiempo, que se vió acotado por mi salida de Cuba y luego me he dedicado intensamente a fomentar mi preparación.<br>
-Actualmente, estoy estudiando técnicas y herramientas, asistiendo a cursos en línea y probando aplicaciones web creadas con fines de aprendizaje.<br>
+Soy una persona organizada, metódica y atenta a los detalles, con excelentes habilidades de comunicación, resolución de problemas y trabajo en equipo.
+
+Me recibí como Licenciada en Ciencias de la Computación en el año 2011 y dediqué los años siguientes a la administración de sistemas, enfrentando diversos retos técnicos y optimizando mis habilidades blandas.
+
+Llegué al ámbito de la calidad por situaciones inesperadas, y me enamoré de la actividad. Ejercí en relación de dependencia por un tiempo, que se vió acotado por mi salida de Cuba y luego me he dedicado intensamente a fomentar mi preparación.
+
+Actualmente, estoy estudiando técnicas y herramientas, asistiendo a cursos en línea y probando aplicaciones web creadas con fines de aprendizaje.
+
 Estaría muy feliz de aplicar el conocimiento adquirido en el testeo de un producto operativo y ganar más experiencia práctica. Convertirme en una tester de software de nivel medio en 2 años es un paso crucial en mis objetivos profesionales.
 
 ## CV
@@ -49,32 +53,41 @@ __Documentación de pruebas__
 __Bases de Datos SQL__
   * Puedo escribir consultas complejas utilizando subconsultas.
   * Familiarizada con el uso de alias y comodines.
+  * Conoce la diferencia entre joins y unions y puede usarlos en consultas.
 
-__Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
+__Desarrollo en Java__
+  * Conozco las estructuras de datos y cómo usarlas de forma eficiente.
+  * Puedo crear funciones y algoritmos.
+  * Conozco los fundamentos de POO.
+
+__Fundamentos de HTML, CSS y JavaScript__
+* Comprensión básica de HTML, CSS y JavaScript, con la capacidad de analizar y probar componentes front-end.   
 
 ## Herramientas
+Tengo experiencia práctica con las siguientes herramientas, que utilizo para mejorar el proceso de control de calidad: 
 
-__TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
+__TestLink/Qase__
+  * Puedo crear casos de prueba y suits de pruebas.
+  * Capaz de ejecutar los casos de prueba creados.
+  * Se cómo usar paneles de control y estadísticas.
 
-__Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
+__Jira/Mantis__
+  * Competente en la creación de informes de errores detallados y en el seguimiento de los problemas a lo largo de su ciclo de vida.
+  * Experimentado en la configuración de proyectos, organización de tareas y monitoreo del progreso.
 
-__SoapUI__
+__Trello__
+  * Hábil en la utilización de tableros Kanban para gestionar tareas y seguir el progreso del proyecto de manera eficiente.
+
+__Postman__
+  * Experimentado en la creación y ejecución de casos de prueba de API.
+  * Familiarizado con la manipulación de solicitudes de API y el análisis de respuestas para realizar pruebas exhaustivas.
 
 __Browser developer tools__
 
 __VirtualBox__
   * able to set up and operate virtual machines
 
-__Trello and Notion__
-  * know how to use Kanban boards and track project progress
+
 
 __Mind maps & diagrams__
   * know how to design beautifully simple mind maps
