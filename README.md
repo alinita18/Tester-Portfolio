@@ -73,24 +73,22 @@ __TestLink/Qase__
 
 __Jira/Mantis__
   * Competente en la creación de informes de errores detallados y en el seguimiento de los problemas a lo largo de su ciclo de vida.
-  * Experimentado en la configuración de proyectos, organización de tareas y monitoreo del progreso.
+  * Experimentada en la configuración de proyectos, organización de tareas y monitoreo del progreso.
 
 __Trello__
   * Hábil en la utilización de tableros Kanban para gestionar tareas y seguir el progreso del proyecto de manera eficiente.
 
 __Postman__
-  * Experimentado en la creación y ejecución de casos de prueba de API.
+  * Experimentada en la creación y ejecución de casos de prueba de API.
   * Familiarizado con la manipulación de solicitudes de API y el análisis de respuestas para realizar pruebas exhaustivas.
 
-__Browser developer tools__
+__Herramientas del Desarrollador en los navegadores__
 
-__VirtualBox__
-  * able to set up and operate virtual machines
+__Git y Github__
+  * Competente en el control de versiones local y alojado.
 
-
-
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
+__Mapas mentales y diagramas__
+  * Capaz de diseñar Mapas Mentales para abordar las funcionalidades de un producto de software.
 
 ## Cursos
 
