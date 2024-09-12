@@ -92,4 +92,30 @@ __Herramientas del Desarrollador en los navegadores__
 
 ## Cursos
 
-En desarrollo!
+__Historias de usuario efectivas__  
+*Curso online, Alaimo Labs*  
+Curso donde se aborda el uso eficiente de las Historias de Usuario para mejorar la comunicación y la generación de acuerdos en los equipos, proporcionando claves y conceptos fundamentales para su correcta aplicación, y ofreciendo herramientas para implementar mejoras inmediatas.   
+[Enlace al certificado](https://alaimolabs.com/en/certificates/6afee65e-9247-47ae-a417-6baeab0e988f)
+
+
+__Java Programming I y II__  
+*Curso online, Universidad de Helsinki*  
+Curso intensivo de de programación en Java.  
+[Enlace al certificado del primer nivel](https://certificates.mooc.fi/validate/h4gflghmdye)<br>
+[Enlace al certificado del segundo nivel](https://certificates.mooc.fi/validate/wgxc564rema) 
+
+
+__Agile with Atlassian Jira__  
+*Curso online dictado por Kashmira Shukla, Coursera*  
+Este curso aborda los principios y prácticas fundamentales comunes utilizados por las metodologías ágiles, proporcionándote un conjunto flexible de herramientas para utilizar en tu rol dentro de un equipo ágil. Se tratan los principios ágiles y lean, incluyendo kanban y scrum, y utiliza Jira Software Cloud como herramienta para aplicar ejercicios prácticos en estos temas. El curso incluye instrucciones sobre proyectos de Jira gestionados por la empresa y por el equipo.<br> 
+[Enlace al certificado](https://coursera.org/verify/PPJEA3CSK8DD)  
+
+__Testing de Software Módulo Avanzado__  
+*Curso online dictado por Tatianna Nieves, Montevideo, Uruguay*  
+Curso avanzado enfocado a las pruebas de APIs y el lenguaje SQL.   
+[Enlace al certificado](https://drive.google.com/file/d/1UyYD6q4nWWXbgXYvSNWFzFaIIB1Wd46P/view?usp=drive_link)
+
+__Testing Módulo Básico__  
+*Curso online dictado por Tatianna Nieves, Montevideo, Uruguay*  
+Curso intensivo de Introducción a las pruebas de software.   
+[Enlace al certificado](https://drive.google.com/file/d/1UyYD6q4nWWXbgXYvSNWFzFaIIB1Wd46P/view?usp=drive_link)
