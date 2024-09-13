@@ -3,7 +3,7 @@
 - [CV](#cv)
 - [Habilidades](#habilidades)
 - [Herramientas](#herramientas)
-- [Cursos](#cursos)
+- [Cursos relevantes al Testing](#cursos-relevantes-al-testing)
 - [Ejemplos de mi trabajo](#ejemplos-de-mi-trabajo)
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
@@ -90,7 +90,13 @@ __Mapas mentales y diagramas__
 
 __Herramientas del Desarrollador en los navegadores__
 
-## Cursos
+## Cursos relevantes al Testing
+
+__Fundamentos de Agilidad: Primeros pasos para la transformación ágil__  
+*Curso online, Alura Latam*  
+Curso que aborda los conceptos clave del método Ágil y el método Cascada, destacando la priorización, flujo de ejecución y retroalimentación en proyectos. Además, explora el manifiesto ágil y lo que significa adoptar una mentalidad ágil en la gestión de proyectos.  
+[Enlace al certificado](https://app.aluracursos.com/formalCertificate/7741b232-47c3-46f2-aede-c590685b9ff9)
+
 
 __Control de versiones en Git/Github - orientado a Testing__  
 *Curso online dictado por Daniel E. Balbi, Instituto Web*  
@@ -143,3 +149,22 @@ __Testing Módulo Básico__
 *Curso online dictado por Tatianna Nieves, Montevideo, Uruguay*  
 Curso intensivo de Introducción a las pruebas de software.   
 [Enlace al certificado](https://drive.google.com/file/d/1UyYD6q4nWWXbgXYvSNWFzFaIIB1Wd46P/view?usp=drive_link)
+
+## Ejemplos de mi trabajo
+### Casos de Prueba
+
+- Casos de prueba demostrativos para [Opencart](http://opencart.abstracta.us/) 
+  * Muestra de casos de prueba para la funcionalidad de registro [Accede al documento aquí](https://docs.google.com/spreadsheets/d/1nDIiQX_VkwAHkcXY0vN1Lk-RVG4eXM0-/edit?usp=drive_link&ouid=107600087043942828566&rtpof=true&sd=true)
+  * Muestra de casos de prueba para la funcionalidad del carrito de compras [Accede al documento aquí](https://docs.google.com/spreadsheets/d/13xG2nNbM9gIMOJsDbux8YyOFes05qYUZ/edit?usp=drive_link&ouid=107600087043942828566&rtpof=true&sd=true)
+
+### Bug reports and work in Jira
+- Reporte de defectos para [Opencart](http://opencart.abstracta.us/) 
+  * Reporte de defectos de las pruebas realizadas a la funcionalidad de registro [Accede al documento aquí](https://docs.google.com/document/d/1Ftt9PK7qbLdba8f9P08MuoSmju4giKub/edit?usp=drive_link&ouid=107600087043942828566&rtpof=true&sd=true).
+  * Reporte de defectos de las pruebas realizadas a la funcionalidad del carrito de compras [Accede al documento aquí](https://docs.google.com/document/d/1X9-vxXhiLIkXdk5PcHNftgw0Ly1tXDvl/edit?usp=drive_link&ouid=107600087043942828566&rtpof=true&sd=true).
+
+### Mindmaps and diagrams
+* Exploración de funcionalidades para [Opencart](http://opencart.abstracta.us/). Verifica el [mapa mental](https://drive.google.com/file/d/1lp_Pjv2hp8Z1b2864nNUMOYn-UMXQl2P/view?usp=drive_link).
+
+## Libros de testing que he leido
+__"Introducción a las pruebas de sistemas de información"__ Federico Toledo 2014 - excelente libro para principiantes. Es una de las primeras publicaciones en español sobre aspectos prácticos de testing. En el mismo se abordan todas las dimensiones del testing, mostrando su propósito y beneficio. Integrando técnicas modernas de forma dinámica y práctica le permite al lector realizar una recorrida nutrida y clara sobre el diseño de pruebas, pruebas automatizadas, pruebas de performance y aspectos humanos que debe desarrollar un buen tester.
+
