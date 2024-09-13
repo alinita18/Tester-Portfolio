@@ -5,10 +5,9 @@
 - [Herramientas](#herramientas)
 - [Cursos relevantes al Testing](#cursos-relevantes-al-testing)
 - [Ejemplos de mi trabajo](#ejemplos-de-mi-trabajo)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
+  * [Casos de Prueba](#casos-de-prueba)
+  * [Reporte de defectos y trabajo en Jira](#reporte-de-defectos-y-trabajo-en-jira)
+  * [Mapas mentales](#mapas-mentales)
 - [Libros que he leido](#libros-que-he-leido)
 
 ## Sobre mi
@@ -157,12 +156,12 @@ Curso intensivo de Introducción a las pruebas de software.
   * Muestra de casos de prueba para la funcionalidad de registro [Accede al documento aquí](https://docs.google.com/spreadsheets/d/1nDIiQX_VkwAHkcXY0vN1Lk-RVG4eXM0-/edit?usp=drive_link&ouid=107600087043942828566&rtpof=true&sd=true)
   * Muestra de casos de prueba para la funcionalidad del carrito de compras [Accede al documento aquí](https://docs.google.com/spreadsheets/d/13xG2nNbM9gIMOJsDbux8YyOFes05qYUZ/edit?usp=drive_link&ouid=107600087043942828566&rtpof=true&sd=true)
 
-### Bug reports and work in Jira
+### Reporte de defectos y trabajo en Jira
 - Reporte de defectos para [Opencart](http://opencart.abstracta.us/) 
   * Reporte de defectos de las pruebas realizadas a la funcionalidad de registro [Accede al documento aquí](https://docs.google.com/document/d/1Ftt9PK7qbLdba8f9P08MuoSmju4giKub/edit?usp=drive_link&ouid=107600087043942828566&rtpof=true&sd=true).
   * Reporte de defectos de las pruebas realizadas a la funcionalidad del carrito de compras [Accede al documento aquí](https://docs.google.com/document/d/1X9-vxXhiLIkXdk5PcHNftgw0Ly1tXDvl/edit?usp=drive_link&ouid=107600087043942828566&rtpof=true&sd=true).
 
-### Mindmaps and diagrams
+### Mapas mentales
 * Exploración de funcionalidades para [Opencart](http://opencart.abstracta.us/). Verifica el [mapa mental](https://drive.google.com/file/d/1lp_Pjv2hp8Z1b2864nNUMOYn-UMXQl2P/view?usp=drive_link).
 
 ## Libros de testing que he leido
