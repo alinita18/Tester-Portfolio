@@ -92,7 +92,31 @@ __Herramientas del Desarrollador en los navegadores__
 
 ## Cursos
 
-__Historias de usuario efectivas__  
+__Control de versiones en Git/Github - orientado a Testing__  
+*Curso online dictado por Daniel E. Balbi, Instituto Web*  
+Curso que cubre los fundamentos y uso avanzado de de Git y GitHub, desde la instalación, configuración, comandos básicos y gestión de ramas, hasta la colaboración en repositorios remotos mediante push, pull y pull requests. También aborda la gestión avanzada de cambios, flujos de trabajo como GitFlow, resolución de conflictos y prácticas de seguridad en GitHub.  
+[Enlace al certificado](https://www.institutoweb.com.ar/certificadosgit/docs/certificado_Pe%c3%b1alver_Ojeda_Alina.pdf)
+
+
+__Git y Github: repositorio, commit y versiones__  
+*Curso online, Alura Latam*  
+Curso práctico de Git y GitHub, desde la creación de una cuenta hasta la gestión de commits y la colaboración en equipo utilizando VSCode.  
+[Enlace al certificado](https://app.aluracursos.com/formalCertificate/35cf74cd-ab54-42c6-b657-6997dfa31ff3m)
+
+
+__Postman API Fundamentals Student Expert__  
+*Curso online, Postman Academy*  
+Curso que aborda los conceptos fundamentales de las APIs y su importancia en el desarrollo de software moderno, junto con el uso de Postman para interactuar con ellas. Abarca la realización de solicitudes GET, POST, PATCH y DELETE, el trabajo con parámetros de consulta, cuerpos, encabezados y códigos de respuesta, además de integrar autorizaciones por API Key y aplicar scripting básico para utilizar APIs en sus aplicaciones.<br>
+ [Enlace al certificado](https://api.badgr.io/public/assertions/TEeGo5T9TxasjhpPWsBAEw?identity__email=alinita18%40gmail.com)
+
+
+__Software Tester 2.1__  
+*Curso online, Abstracta Academy*  
+Curso integral en testing y calidad de software, abarcando desde los fundamentos del testing, la gestión de casos de prueba y el manejo de incidentes, hasta las habilidades necesarias para el desarrollo profesional del tester, incluyendo técnicas de prueba, buenas prácticas, herramientas de gestión, y conocimientos sobre el proceso de desarrollo de software. Además, el curso aborda la preparación para la búsqueda laboral y la integración en un equipo de trabajo, con énfasis en la autoorganización y la comunicación efectiva.
+[Enlace al certificado](https://drive.google.com/file/d/14_Pr_st7r4bVTNmDT3oETk50u3_zHtdj/view?usp=drive_link)
+
+
+__Historias de usurio efectivas__  
 *Curso online, Alaimo Labs*  
 Curso donde se aborda el uso eficiente de las Historias de Usuario para mejorar la comunicación y la generación de acuerdos en los equipos, proporcionando claves y conceptos fundamentales para su correcta aplicación, y ofreciendo herramientas para implementar mejoras inmediatas.   
 [Enlace al certificado](https://alaimolabs.com/en/certificates/6afee65e-9247-47ae-a417-6baeab0e988f)
