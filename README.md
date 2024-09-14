@@ -8,7 +8,7 @@
   * [Casos de Prueba](#casos-de-prueba)
   * [Reporte de defectos y trabajo en Jira](#reporte-de-defectos-y-trabajo-en-jira)
   * [Mapas mentales](#mapas-mentales)
-- [Libros que he leido](#libros-que-he-leido)
+- [Libros de testing que he leido](#libros-de-testing-que-he-leido)
 
 ## Sobre mi
 
@@ -158,7 +158,7 @@ Curso intensivo de Introducción a las pruebas de software.
 
 ### Reporte de defectos y trabajo en Jira
 - Reporte de defectos para [Opencart](http://opencart.abstracta.us/) 
-  * Reporte de defectos de las pruebas realizadas a la funcionalidad de registro [Accede al documento aquí](https://docs.google.com/document/d/1Ftt9PK7qbLdba8f9P08MuoSmju4giKub/edit?usp=drive_link&ouid=107600087043942828566&rtpof=true&sd=true).
+  * Reporte de defectos de las pruebas realizadas a la funcionalidad de registro [Accede al documento aquí](https://docs.google.com/document/d/1ePudBVNgUQHNBGBmV5bFodo0lJxdsvmR/edit?usp=drive_link&ouid=107600087043942828566&rtpof=true&sd=true).
   * Reporte de defectos de las pruebas realizadas a la funcionalidad del carrito de compras [Accede al documento aquí](https://docs.google.com/document/d/1X9-vxXhiLIkXdk5PcHNftgw0Ly1tXDvl/edit?usp=drive_link&ouid=107600087043942828566&rtpof=true&sd=true).
 
 ### Mapas mentales
