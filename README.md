@@ -23,7 +23,7 @@ Actualmente, estoy estudiando técnicas y herramientas, asistiendo a cursos en l
 Estaría muy feliz de aplicar el conocimiento adquirido en el testeo de un producto operativo y ganar más experiencia práctica. Convertirme en una tester de software de nivel medio en 2 años es un paso crucial en mis objetivos profesionales.
 
 ## CV
-Puede descargar mi CV como PDF desde mi Google Drive [ aquí](https://drive.google.com/file/d/1o95P8vpcTm8t7XwHs50_Ogk5DTY3NQIJ/view?usp=drive_link)
+Puede descargar mi CV como PDF desde mi Google Drive [ aquí](https://drive.google.com/file/d/1nVSjAhICvNdp-EmYhAgu7j5Y1jZ8GYhK/view?usp=drive_link)
 
 ## Habilidades
 
