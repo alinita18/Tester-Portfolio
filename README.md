@@ -117,13 +117,13 @@ Curso que aborda los conceptos fundamentales de las APIs y su importancia en el 
 
 __Software Tester 2.1__  
 *Curso online, Abstracta Academy*  
-Curso integral en testing y calidad de software, abarcando desde los fundamentos del testing, la gestión de casos de prueba y el manejo de incidentes, hasta las habilidades necesarias para el desarrollo profesional del tester, incluyendo técnicas de prueba, buenas prácticas, herramientas de gestión, y conocimientos sobre el proceso de desarrollo de software. Además, el curso aborda la preparación para la búsqueda laboral y la integración en un equipo de trabajo, con énfasis en la autoorganización y la comunicación efectiva.
+Curso integral en testing y calidad de software, abarcando desde los fundamentos del testing, la gestión de casos de prueba y el manejo de incidentes, hasta las habilidades necesarias para el desarrollo profesional del tester, incluyendo técnicas de prueba, buenas prácticas, herramientas de gestión, y conocimientos sobre el proceso de desarrollo de software. Además, el curso aborda la preparación para la búsqueda laboral y la integración en un equipo de trabajo, con énfasis en la autoorganización y la comunicación efectiva.<br>
 [Enlace al certificado](https://drive.google.com/file/d/14_Pr_st7r4bVTNmDT3oETk50u3_zHtdj/view?usp=drive_link)
 
 
 __Historias de usurio efectivas__  
 *Curso online, Alaimo Labs*  
-Curso donde se aborda el uso eficiente de las Historias de Usuario para mejorar la comunicación y la generación de acuerdos en los equipos, proporcionando claves y conceptos fundamentales para su correcta aplicación, y ofreciendo herramientas para implementar mejoras inmediatas.   
+Curso donde se aborda el uso eficiente de las Historias de Usuario para mejorar la comunicación y la generación de acuerdos en los equipos, proporcionando claves y conceptos fundamentales para su correcta aplicación, y ofreciendo herramientas para implementar mejoras inmediatas.<br>   
 [Enlace al certificado](https://alaimolabs.com/en/certificates/6afee65e-9247-47ae-a417-6baeab0e988f)
 
 
