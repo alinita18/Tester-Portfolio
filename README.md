@@ -164,6 +164,9 @@ Curso intensivo de Introducción a las pruebas de software.
 ### Mapas mentales
 * Exploración de funcionalidades para [Opencart](http://opencart.abstracta.us/). Verifica el [mapa mental](https://drive.google.com/file/d/1lp_Pjv2hp8Z1b2864nNUMOYn-UMXQl2P/view?usp=drive_link).
 
+### Framework de Automatización
+- Framework de automatización de pruebas al sitio [Bitheap](https://bitheap.tech/). Verifica el [proyecto](https://github.com/alinita18/Framework-de-automatizaci-n-para-Bitheap).
+
 ## Libros de testing que he leido
 __"Introducción a las pruebas de sistemas de información"__ Federico Toledo 2014 - excelente libro para principiantes. Es una de las primeras publicaciones en español sobre aspectos prácticos de testing. En el mismo se abordan todas las dimensiones del testing, mostrando su propósito y beneficio. Integrando técnicas modernas de forma dinámica y práctica le permite al lector realizar una recorrida nutrida y clara sobre el diseño de pruebas, pruebas automatizadas, pruebas de performance y aspectos humanos que debe desarrollar un buen tester.
 
