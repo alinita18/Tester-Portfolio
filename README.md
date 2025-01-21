@@ -82,7 +82,7 @@ __Postman__
   * Familiarizada con la manipulación de solicitudes de API y el análisis de respuestas para realizar pruebas exhaustivas.
 
 __Selenium__ 
-  * Familiarizada con localizadores, principales funciones, patrón POM/Screen. Puedo trabajar con depedencias como JUnit, TestNG, Cucumber. Capaz de realizar capturas de pantallas y logs del proceso de pruebas. Consulte un ejemplo de mi trabajo [aquí](#framework-de-automatización)
+  * Familiarizada con localizadores, acciones en elementos web, esperas, manejo de alertas, uso del JavascriptExecutor, patrón POM/Screen. Puedo trabajar con depedencias como JUnit, TestNG, Cucumber. Capaz de realizar capturas de pantallas y logs del proceso de pruebas. Consulte un ejemplo de mi trabajo [aquí](#framework-de-automatización).
 
 __Git y Github__
   * Competente en el control de versiones local y alojado.
