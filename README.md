@@ -79,7 +79,10 @@ __Trello__
 
 __Postman__
   * Experimentada en la creación y ejecución de casos de prueba de API.
-  * Familiarizado con la manipulación de solicitudes de API y el análisis de respuestas para realizar pruebas exhaustivas.
+  * Familiarizada con la manipulación de solicitudes de API y el análisis de respuestas para realizar pruebas exhaustivas.
+
+__Selenium__ 
+  * Familiarizada con localizadores, principales funciones, patrón POM/Screen. Puedo trabajar con depedencias como JUnit, TestNG, Cucumber. Capaz de realizar capturas de pantallas y logs del proceso de pruebas. Consulte un ejemplo de mi trabajo [aquí](### Framework de Automatización)
 
 __Git y Github__
   * Competente en el control de versiones local y alojado.
@@ -90,6 +93,22 @@ __Mapas mentales y diagramas__
 __Herramientas del Desarrollador en los navegadores__
 
 ## Cursos relevantes al Testing
+
+__Automation Testing Masterclass -Selenium, Cucumber and more__  
+*Curso online dictado por Laurentiu Raducu, Udemy*  
+Curso que ofrece una introducción a Selenium WebDriver, donde se abordan localizadores, acciones en elementos web, tipos de espera, manejo de alertas, trabajo con iFrames, uso del JavascriptExecutor, cómo realizar acciones especiales, y más. Cubre además el trabajo con JUnit, TestNG y  Cucumber. Aborda también las pruebas a API y su automatización.
+[Enlace al certificado](https://www.udemy.com/certificate/UC-565b5129-8e12-49c3-b51e-fba65c0fc468/)
+
+
+__Web Element Locator Strategies__  
+*Curso online dictado por Andrew Knight, Test Automation University*  
+Curso que presenta los diferentes localizadores y selectores,explica cómo diseñar selectores CSS y Xpath avanzados, y ofrece estrategias para utilizar el localizador más simple que identifique de manera única al elemento objetivo con el fin de crear scripts más precisos, mantenibles y resistentes a cambios.  
+[Enlace al certificado](https://testautomationu.applitools.com/certificate/?id=1ee4235e)
+
+__Programming Fundamentals: Software Testing and QA__  
+*Curso online dictado por Meaghan Lewis, Linkedin Learning*  
+Curso que aborda las prácticas QA dentro del contexto de un proyecto de ingeniería de software.  
+[Enlace al certificado](https://www.linkedin.com/learning/certificates/85f52cfbe817adac85736fbef7776d2607758fddc80ec5b19797ae6b24f0dc0e?trk=share_certificate)
 
 __Fundamentos de Agilidad: Primeros pasos para la transformación ágil__  
 *Curso online, Alura Latam*  
@@ -123,7 +142,7 @@ Curso integral en testing y calidad de software, abarcando desde los fundamentos
 
 __Historias de usurio efectivas__  
 *Curso online, Alaimo Labs*  
-Curso donde se aborda el uso eficiente de las Historias de Usuario para mejorar la comunicación y la generación de acuerdos en los equipos, proporcionando claves y conceptos fundamentales para su correcta aplicación, y ofreciendo herramientas para implementar mejoras inmediatas.<br>   
+Curso donde se aborda el uso eficiente de las Historias de Usuario para mejorar la comunicación y la generación de acuerdos en los equipos, proporcionando claves y conceptos fundamentales para su correcta aplicación, y ofreciendo herramientas para implementar mejoras inmediatas. 
 [Enlace al certificado](https://alaimolabs.com/en/certificates/6afee65e-9247-47ae-a417-6baeab0e988f)
 
 
