@@ -12,15 +12,11 @@
 
 ## Sobre mi
 
+Soy QA Analyst Ssr con formación en Ciencias de la Computación y más de una década de experiencia en el área de sistemas. He trabajado como freelance tester en uTest, participando en proyectos internacionales, y actualmente colaboro en SONDA dentro de un ambicioso proyecto de identificación única de personas, contribuyendo a garantizar la calidad y confiabilidad de un sistema crítico.
+
+En paralelo, me mantengo en constante capacitación, enfocando mis estudios en automatización de pruebas y en el testing de aplicaciones con Inteligencia Artificial, con el objetivo de dar el salto completo hacia estas áreas en el corto plazo.
+
 Soy una persona organizada, metódica y atenta a los detalles, con excelentes habilidades de comunicación, resolución de problemas y trabajo en equipo.
-
-Me recibí como Licenciada en Ciencias de la Computación en el año 2011 y dediqué los años siguientes a la administración de sistemas, enfrentando diversos retos técnicos y optimizando mis habilidades blandas.
-
-Llegué al ámbito de la calidad por situaciones inesperadas, y me enamoré de la actividad. Ejercí en relación de dependencia por un tiempo, que se vió acotado por mi salida de Cuba y luego me he dedicado intensamente a fomentar mi preparación.
-
-Actualmente, estoy estudiando técnicas y herramientas, asistiendo a cursos en línea y probando aplicaciones web creadas con fines de aprendizaje.
-
-Estaría muy feliz de aplicar el conocimiento adquirido en el testeo de un producto operativo y ganar más experiencia práctica. Convertirme en una tester de software de nivel medio en 2 años es un paso crucial en mis objetivos profesionales.
 
 ## CV
 Puede descargar mi CV como PDF desde mi Google Drive en español [ aquí](https://drive.google.com/file/d/1BzGq81urf8ng6btaw95kj9YgAvLj6O_-/view?usp=drive_link) y en inglés [ aquí](https://drive.google.com/file/d/1nq-SvBDc7Nq790ZnHetgELJoRJiLO2Nu/view?usp=drive_link)
