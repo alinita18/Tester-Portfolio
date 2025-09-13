@@ -28,19 +28,17 @@ Puede encontrar ejemplos de las habilidades descritas en la sección [Ejemplos d
 
 __Testing Manual__
   * Puedo realizar pruebas funcionales y de usabilidad manuales en aplicaciones web y móviles.
-  * He adquirido experiencia práctica probando aplicaciones creadas con fines educativos.
 
 __Análisis y diseño de pruebas__
   * Familiarizada con la descomposición funcional de productos, creación de diagramas de transición de estados y redacción de casos de uso.
   * Puedo aplicar particiones de equivalencia, análisis de valores límites y métodos de pruebas por pares para generar datos de entrada para pruebas.
 
 __Pruebas de API__
-  * Conozco la diferencia entre APIs SOAP y REST.
-  * He adquirido experiencia a través de pruebas manuales de APIs creadas con fines educativos.
+  * He adquirido experiencia a través de pruebas manuales de APIs.
   * Sé cómo manipular solicitudes y crear casos de prueba utilizando la herramienta Postman.
 
 __Pruebas Exploratorias__
-  * Capaz de usar los test tours de Whittaker y crear listas de verificación para pruebas de aplicaciones web y móviles.
+  * Soy aapaz de usar los test tours de Whittaker y crear listas de verificación para pruebas de aplicaciones web y móviles.
 
 __Documentación de pruebas__
   * Puedo crear casos de prueba y listas de verificación y se cómo y en qué situaciones usarlos de manera efectiva.
@@ -49,7 +47,7 @@ __Documentación de pruebas__
 __Bases de Datos SQL__
   * Puedo escribir consultas complejas utilizando subconsultas.
   * Familiarizada con el uso de alias y comodines.
-  * Conoce la diferencia entre joins y unions y puede usarlos en consultas.
+  * Conozco la diferencia entre joins y unions y puedo usarlos en consultas.
 
 __Desarrollo en Java__
   * Conozco las estructuras de datos y cómo usarlas de forma eficiente.
