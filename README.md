@@ -8,6 +8,7 @@
   * [Casos de Prueba](#casos-de-prueba)
   * [Reporte de defectos y trabajo en Jira](#reporte-de-defectos-y-trabajo-en-jira)
   * [Mapas mentales](#mapas-mentales)
+  * [Framework de Automatización](#framework-de-automatización)
 - [Libros de testing que he leido](#libros-de-testing-que-he-leido)
 
 ## Sobre mi
