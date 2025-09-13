@@ -67,7 +67,7 @@ __TestLink/Qase__
 
 __Jira/Mantis__
   * Competente en la creación de informes de errores detallados y en el seguimiento de los problemas a lo largo de su ciclo de vida.
-  * Experimentada en la configuración de proyectos, organización de tareas y monitoreo del progreso.
+  * Experimentada en la configuración de proyectos, organización de tareas y monitoreo del progreso. Ejemplo de un reportes de defecto en un tablero de Jira [ aquí](https://id.atlassian.com/invite/p/jira-software?id=QLZYFoX1R_efju2pnvcsTw)
 
 __Trello__
   * Hábil en la utilización de tableros Kanban para gestionar tareas y seguir el progreso del proyecto de manera eficiente.
