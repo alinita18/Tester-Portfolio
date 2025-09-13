@@ -38,7 +38,7 @@ __Pruebas de API__
   * Sé cómo manipular solicitudes y crear casos de prueba utilizando la herramienta Postman.
 
 __Pruebas Exploratorias__
-  * Soy aapaz de usar los test tours de Whittaker y crear listas de verificación para pruebas de aplicaciones web y móviles.
+  * Soy capaz de usar los test tours de Whittaker y crear listas de verificación para pruebas de aplicaciones web y móviles.
 
 __Documentación de pruebas__
   * Puedo crear casos de prueba y listas de verificación y se cómo y en qué situaciones usarlos de manera efectiva.
