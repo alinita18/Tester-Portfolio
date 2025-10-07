@@ -20,7 +20,7 @@ En paralelo, me mantengo en constante capacitación, enfocando mis estudios en a
 Soy una persona organizada, metódica y atenta a los detalles, con excelentes habilidades de comunicación, resolución de problemas y trabajo en equipo.
 
 ## CV
-Puede descargar mi CV como PDF desde mi Google Drive en español [ aquí](https://drive.google.com/file/d/1BzGq81urf8ng6btaw95kj9YgAvLj6O_-/view?usp=drive_link) y en inglés [ aquí](https://drive.google.com/file/d/1nq-SvBDc7Nq790ZnHetgELJoRJiLO2Nu/view?usp=drive_link)
+Puede descargar mi CV como PDF desde mi Google Drive [ en español](https://drive.google.com/file/d/1rje5PZYpgkNl96zqGD0bmTZaU2iRIw6Z/view?usp=drive_link) y [ en inglés](https://drive.google.com/file/d/1Eruxju7F9CGrD5qA6p83Puye_iA1PQxY/view?usp=drive_link)
 
 ## Habilidades
 
