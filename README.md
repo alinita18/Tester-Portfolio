@@ -152,7 +152,7 @@ Curso integral en testing y calidad de software, abarcando desde los fundamentos
 
 __Historias de usurio efectivas__  
 *Curso online, Alaimo Labs*  
-Curso donde se aborda el uso eficiente de las Historias de Usuario para mejorar la comunicación y la generación de acuerdos en los equipos, proporcionando claves y conceptos fundamentales para su correcta aplicación, y ofreciendo herramientas para implementar mejoras inmediatas. 
+Curso donde se aborda el uso eficiente de las Historias de Usuario para mejorar la comunicación y la generación de acuerdos en los equipos, proporcionando claves y conceptos fundamentales para su correcta aplicación, y ofreciendo herramientas para implementar mejoras inmediatas.<br> 
 [Enlace al certificado](https://alaimolabs.com/en/certificates/6afee65e-9247-47ae-a417-6baeab0e988f)
 
 
