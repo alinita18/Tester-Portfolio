@@ -20,7 +20,7 @@ En paralelo, me mantengo en constante capacitación, enfocando mis estudios en a
 Soy una persona organizada, metódica y atenta a los detalles, con excelentes habilidades de comunicación, resolución de problemas y trabajo en equipo.
 
 ## CV
-Puede descargar mi CV como PDF desde mi Google Drive [ en español](https://drive.google.com/file/d/1rje5PZYpgkNl96zqGD0bmTZaU2iRIw6Z/view?usp=drive_link) y [ en inglés](https://drive.google.com/file/d/1Eruxju7F9CGrD5qA6p83Puye_iA1PQxY/view?usp=drive_link)
+Puede descargar mi CV como PDF desde mi Google Drive [ en español](https://drive.google.com/file/d/18idyMilhTSoXMTAG8NXbQyEzYxBmnyaO/view?usp=drive_link) y [ en inglés](https://drive.google.com/file/d/1Lya5L4dkzxLlQ3N-rTJCVB7Hm5zimqIS/view?usp=drive_link)
 
 ## Habilidades
 
@@ -28,6 +28,9 @@ Puede encontrar ejemplos de las habilidades descritas en la sección [Ejemplos d
 
 __Testing Manual__
   * Puedo realizar pruebas funcionales y de usabilidad manuales en aplicaciones web y móviles.
+
+__Testing Automatizado__
+  * Competente en automatización de pruebas funcionales y de integración, utilizando herramientas y frameworks modernos. Capaz de diseñar, implementar y ejecutar planes de prueba, casos de prueba y suites automatizadas, integrando buenas prácticas de depuración, logging y captura de evidencias. Experiencia en la aplicación de patrones de diseño como Page Object Model, manejo de dependencias y ejecución de pruebas en paralelo para optimizar tiempos y asegurar la calidad del software.  
 
 __Análisis y diseño de pruebas__
   * Familiarizada con la descomposición funcional de productos, creación de diagramas de transición de estados y redacción de casos de uso.
@@ -79,6 +82,9 @@ __Postman__
 __Selenium__ 
   * Familiarizada con localizadores, acciones en elementos web, esperas, manejo de alertas, uso del JavascriptExecutor, patrón POM/Screen. Puedo trabajar con depedencias como JUnit, TestNG, Cucumber. Capaz de realizar capturas de pantallas y logs del proceso de pruebas. Consulte un ejemplo de mi trabajo [aquí](#framework-de-automatización).
 
+ __Playwright__  
+ * Familiarizada con locators, actions y expects en elementos web, manejo de esperas, alertas y navegación en páginas. Conocimiento del patrón Page Object Model (POM) para estructurar pruebas de manera escalable. Capaz de ejecutar tests paralelos, depurar en modo interactivo y realizar capturas de pantalla, trazas y logs durante el proceso de pruebas. Experiencia integrando pruebas funcionales y de API.
+
 __Git y Github__
   * Competente en el control de versiones local y alojado.
 
@@ -88,6 +94,15 @@ __Mapas mentales y diagramas__
 __Herramientas del Desarrollador en los navegadores__
 
 ## Cursos relevantes al Testing
+__Automatización de pruebas web con Playwright__ 
+*Curso online dictado por Manuel Ledezma, Tester Testarudo* 
+Curso que ofrece una introducción práctica a Playwright, donde se abordan instalación y primeros pasos, exploración de la herramienta, localizadores, acciones y aserciones sobre elementos web, depuración de tests y ejecución en paralelo. Cubre el uso del Page Object Model (POM) y la implementación de primeras pruebas de API, permitiendo desarrollar pruebas funcionales completas de manera rápida y efectiva.
+[Enlace al certificado](https://drive.google.com/file/d/1ZfOxzyi9p6H7qCdJO7ZNqRjfKxED3yH2/view?usp=drive_link)
+
+__Introduction to Playwright__ 
+*Curso online dictado por Renata Andrade, Test Automation University* 
+Curso que ofrece una introducción a Playwright, donde se abordan instalación y configuración del test runner, localizadores, acciones y aserciones sobre elementos web, manejo de esperas y alertas, depuración de tests y ejecución en paralelo. Cubre el uso del Page Object Model (POM), buenas prácticas en la escritura de pruebas, captura de pantallas, logs y trazas, y también incluye un módulo de Visual Regression Testing con Applitools.
+[Enlace al certificado](https://testautomationu.applitools.com/certificate/?id=25cf89b2)
 
 __Automation Testing Masterclass -Selenium, Cucumber and more__  
 *Curso online dictado por Laurentiu Raducu, Udemy*  
