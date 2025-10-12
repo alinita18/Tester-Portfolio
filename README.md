@@ -196,6 +196,6 @@ Curso intensivo de Introducción a las pruebas de software.
 ### Framework de Automatización
 - Framework de automatización de pruebas al sitio [Bitheap](https://bitheap.tech/) utilizando Selenium, JUnit e implementando patrones de diseño como Strategy, Singleton y POM. Verifica el [proyecto](https://github.com/alinita18/Framework-de-automatizaci-n-para-Bitheap).
 
-## Libros de testing que he leido
+## Libros de testing que he leído
 __"Introducción a las pruebas de sistemas de información"__ Federico Toledo 2014 - excelente libro para principiantes. Es una de las primeras publicaciones en español sobre aspectos prácticos de testing. En el mismo se abordan todas las dimensiones del testing, mostrando su propósito y beneficio. Integrando técnicas modernas de forma dinámica y práctica le permite al lector realizar una recorrida nutrida y clara sobre el diseño de pruebas, pruebas automatizadas, pruebas de performance y aspectos humanos que debe desarrollar un buen tester.
 
